@@ -1,0 +1,100 @@
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+E:\CTDL & GTHUAT\DuAn\offical_winform_quanlybaidang\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\Downloads\QuanLyBaiDang-master (1)\QuanLyBaiDang-master\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\Official\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.DanhSach.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.DanhSach.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-main\DO-AN-main\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\DO-AN-MON-HOC\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe.config
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\bin\Debug\offical_winform_quanlybaidang.pdb
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\bin\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.resources
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormQuanLy.resources
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.Properties.Resources.resources
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.FormDangNhap.vi-VN.resources
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\vi-VN\offical_winform_quanlybaidang.resources.dll
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.exe
+C:\Users\PC\OneDrive\Máy tính\BAI-DANG\offical_winform_quanlybaidang\obj\Debug\offical_winform_quanlybaidang.pdb
